@@ -40,4 +40,5 @@ The predicted actions (buy or not buy) over time.
 The closing price is represented as a bar chart, while the actual and predicted actions are represented as scatter plots. We adjust the colors and opacity of the plots to provide a clear and informative visualization.
 
 ## Note:
-This project is for educational and informational purposes only and should not be considered financial advice. The stock market is risky and unpredictable, and while machine learning can provide insights, it cannot guarantee profits. Always do your own research and consider seeking advice from financial professionals.
+This project is for educational and informational purposes only and should not be considered financial advice. The stock market is risky and unpredictable, and while machine learning can provide insights, it cannot guarantee profits. Always do your own research and consider seeking advice from financial professionals. 
+Lastly, download the images before viewing or use a white theme on your Git Hub to preview the images. Thank you. 
